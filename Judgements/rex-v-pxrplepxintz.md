@@ -28,23 +28,23 @@ BETWEEN:
 
 **INTRODUCTION**
 
-[1] On the 19th, of June 2024, (Time Unspecified). Hacknets placed StevoHateLife under investigation for “Violating the Use of Force Policy and Procedure”. The outcome of the investigation was the defendant was ordered to mandatory re-training, a 10-day suspension, and a strike.
-[2] On the 20th, of June 2024, the defendant StevoHateLife filed a civil case against the British Columbia Sheriff Service for the claim of Right to Challenge Disciplinary Action. The defendant filed a Reply to the Notice of Claim filed by the Plaintiffs' Attorney Hmmm_Poul.
+[1] On the 28th, of November 2024, (Time Unspecified). The defendant, representing the Vancouver Police Department, unreasonably misused and discharged a firearm at a black pickup truck twice, who had not shown any deadly force. This is not recgonized as a lethal threat under the Use of Force Model. The accused shot at the victim in someone's vehichle, killing the passenger in both scenarios.
 
-[3] The Plaintiff requests reliefs of removal of strike and the removal of a mandatory training, if the defendant (British Columbia Sheriff Service) is found liable of the Claim (Right to Challenge Disciplinary Action.
+[2] On December 6, 2024, the plaintiff (Rex) initiated a criminal case by filing and submitting a Criminal Information against the defendant, Pxrplepxintz. Upon review, probable cause was established, allowing the case to proceed.
+
+[3] Rex has charged the defendant with the following: Count 1 - misconduct of officers, Count 2 - first-degree murder, Count 3 - discharging a firearm with intent to wound, Count 4 - assault causing bodily harm, Count 5 - unlawfully causing bodily harm, Count 6 - misconduct of officers, Count 7 - first-degree murder, Count 8 - discharging a firearm with intent to wound, Count 9 - assault causing bodily harm, and Count 10 - unlawfully causing bodily harm.
+
+[4] On December 9, 2024, Rex (representing the Ministry of Justice) extended a plea deal to the defendant, Pxrplepxintz. After careful review, the defense accepted the terms of the agreement.
+
+[5] In accordance with the plea deal, the Crown has agreed to drop the following charges: two counts of misconduct of officers, two counts of assault causing bodily harm, and one count of unlawfully causing bodily harm.
 
 **FINDINGS**
 
-[4] The court believes that the plaintiff was surrounded by the 3 people. As a Law Enforcement Officer, they have access to tools including a firearm, pepper spray, a baton, a taser. These tools are used to protect yourself, to protect another individual and to protect the public.
- 
-[5] According to the Defense Exhibit C, it shows that the Officer was around 3 people, and the same 3 people in the video did have their fists up, and they were running towards the plaintiff. The court agrees that they could be a protentional threat.
- 
-[6] After reviewing all evidence, the court did not see any sort of firearm, or any weapon present that could present a protentional danger towards the plaintiff. The court also sees that the three individuals were running towards the plaintiff, and that could present a protentional threat.
- 
-[7] However, the court must put into the fact that Law Enforcement Officers must follow the use of force module, “The use of Lethal force such as your handgun. Subjects may be showing deadly force and is a threat to others around them. It is stated and taught in the British Columbia Sheriff Service Academy.
- 
-[8] The court does believe that the three individuals near the officer did not pose a deadly threat to the officer. The court also believes that firing “warning shots”, is wrong, and it is against the law. It is considered reckless discharge, further the less firing warning shots is illegal.
- 
-[9] As a Law Enforcement Office you are trained to use all non-lethal resources including a baton, pepper spray, and a tazer before you resort to lethal resources. Using lethal resources can and will end an individual life and you must always resort to other resources before you use the last resort.
+[5] Upon agreement on the plea deal, the court has found the defendant guilty of multiple charges. These include two counts of first-degree murder, two counts of discharging a firearm with intent to wound, and one count of unlawfully causing bodily harm
+
 
 **JUDGEMENTS AND ORDERS**
+
+[6] The court issues a firearm prohibition order, barring the defendant from owning, using, or carrying any firearm for a period of 60 days following the issuance of the final judgment to all parties.
+
+[7] The court hereby sentences the defendant to 1,320 seconds (22 minutes) in the custody of Correctional Services Canada, effective immediately upon the issuance of this judgment.

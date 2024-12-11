@@ -1,4 +1,4 @@
-	Citation:       StevoHateLife v. British Coloumbia Sheriff Service
+	Citation:       REX v. pxrplepxintz
                 	PCBC 2010
 	Date:		2024-7-23
 	Registry:	Vancouver

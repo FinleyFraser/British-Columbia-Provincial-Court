@@ -1,6 +1,5 @@
 	Citation:       REX v. pxrplepxintz
-                	PCBC 2010
-	Date:		2024-7-23
+	Date:		2024-12-11
 	Registry:	Vancouver
 
 				IN THE BRITISH COLUMBIA PROVINCIAL COURT
@@ -40,7 +39,7 @@ BETWEEN:
 
 **FINDINGS**
 
-[5] Upon agreement on the plea deal, the court has found the defendant guilty of multiple charges. These include two counts of first-degree murder, two counts of discharging a firearm with intent to wound, and one count of unlawfully causing bodily harm
+[5] Upon agreement on the plea deal, the defendant has plea guilty to the following charges, two counts of first-degree murder, two counts of discharging a firearm with intent to wound, and one count of unlawfully causing bodily harm
 
 
 **JUDGEMENTS AND ORDERS**

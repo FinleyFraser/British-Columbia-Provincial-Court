@@ -1,4 +1,5 @@
-	Citation:       REX v. pxrplepxintz
+
+ Citation:       REX v. Lithu1_nian
                 	2024 BCPC 114
 	Date:		2024-11-12
 	Registry:	Vancouver
@@ -40,7 +41,7 @@ BETWEEN:
 
 **FINDINGS**
 
-[5] Upon agreement on the plea deal, the defendant has plead guilty to the following charges, two counts of first-degree murder, two counts of discharging a firearm with intent to wound, and one count of unlawfully causing bodily harm
+[5] Upon agreement on the plea deal, the defendant has plead guilty to the following charges, Reckless discharge of a firearm.
 
 
 **JUDGEMENTS AND ORDERS**

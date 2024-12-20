@@ -1,7 +1,7 @@
 Citation:       In the matter of an application for warrant reversal by American_Lance
                 	2024 BCPC 131
 	
-Date:		2024-12-16
+Date:		2024-12-20
 	
 Registry:	Vancouver
 

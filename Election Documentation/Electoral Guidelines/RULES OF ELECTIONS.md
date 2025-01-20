@@ -22,6 +22,4 @@ For example, in a 4 amount By-Election for the LA. 4 people exactly run. 3 peopl
 
 ----
 
-Signed, Funpark22
-Chief Judge
-Chief Electoral Officer
+Signed, Funpark22, Chief Judge, Chief Electoral Officer

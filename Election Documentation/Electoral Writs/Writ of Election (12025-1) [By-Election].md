@@ -7,7 +7,7 @@
 ------
 
 <p align="center"><b>
-			    	WRIT OF GENERAL ELECTION
+			    	WRIT OF BY-ELECTION
 <br><br>		FOR LEGISLATIVE ASSEMBLY
 
 ------

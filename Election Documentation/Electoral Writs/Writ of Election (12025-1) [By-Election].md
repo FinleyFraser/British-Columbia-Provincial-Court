@@ -1,0 +1,29 @@
+
+	Title: Writ of Election for Premier
+	Date:	1/20/2025
+	Number:	12025-1
+	Authority: s. 118, Constitution Act
+
+------
+
+<p align="center"><b>
+			    	WRIT OF GENERAL ELECTION
+<br><br>		FOR LEGISLATIVE ASSEMBLY
+
+------
+
+**AUTHORITY**
+
+Pursuant to Section 118 of the Constitution, I Funpark22, Chief Judge, am the Chief Electoral Officer. 
+
+**WRIT OF ELECTION**
+
+Pursuant to Section 133 of the Constitution Act, it is declared that there shall be a By-Election for the Legislative Assembly of British Columbia. The information is below:
+
+| Office for Election | Seats Available      |                                             Seats Available In Depth                                                   |
+| ------------------- | ---------------------|------------------------------------------------------------------------------------------------------------------------|
+| Legislative Assembly|    Fourteen (14)     | X2 for West End, Robson, Vancouver Beach, Bayshort and Brockton Point, West Vancouver, Metro West Vancouver, Lions Gate| 
+
+| Nomination Period - Within the Campaigning Channel   |  Campaigning Period                                 | Voting Period                                       | Certification of Results |
+| ---------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ------------------------ |
+| 1/21/2025 @ 00:01 UTC-6 - 07/22/2024 @ 00:01 UTC-6   | 07/22/2024 @ 20:00 UTC-6 - 07/20/2024 @ 20:00 UTC-6 | 07/23/2024 @ 20:00 UTC-6 - 07/25/2024 @ 20:00 UTC-6 | 07/26/2024 @ 15:00 UTC-6 |

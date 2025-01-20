@@ -1,5 +1,5 @@
 
-	Title: Writ of Election for Premier
+	Title: Writ of Election for Legislative Essembly
 	Date:	1/20/2025
 	Number:	12025-1
 	Authority: s. 118, Constitution Act
@@ -7,7 +7,7 @@
 ------
 
 <p align="center"><b>
-			    	WRIT OF BY-ELECTION
+			    	WRIT OF ELECTION
 <br><br>		FOR LEGISLATIVE ASSEMBLY
 
 ------

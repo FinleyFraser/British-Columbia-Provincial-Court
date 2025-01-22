@@ -3,7 +3,7 @@
 1. Be a Resident of British Columbia
 2. Campaigning must be spread out between 30 minutes from the last message sent
 3. Campaigning must be done in the appropriate channel designated by the Chief Electoral Officer
-4. No Harassement shall occur between campaigns and within them.
+4. No Harassement shall occur between campaigns and within them. All campaigners are to be respectful to one another.
 5. NO Violating sections of the constitution act of 2024
 6. NO Violating statutory law
 

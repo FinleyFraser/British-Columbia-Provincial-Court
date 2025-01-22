@@ -20,9 +20,9 @@ Pursuant to Section 118 of the Constitution, I Funpark22, Chief Judge, am the Ch
 
 Pursuant to Section 133 of the Constitution Act, it is declared that there shall be a By-Election for the Legislative Assembly of British Columbia. The information is below:
 
-| Office for Election | Seats Available      |                                             Seats Available In Depth                                                   |
-| ------------------- | ---------------------|------------------------------------------------------------------------------------------------------------------------|
-| Legislative Assembly|    Fourteen (14)     | X2 for West End, Robson, Vancouver Beach, Bayshort and Brockton Point, West Vancouver, Metro West Vancouver, Lions Gate| 
+| Office for Election | Seats Available      |                                             Seats Available In Depth                                                           |
+| ------------------- | ---------------------|------------------------------------------------------------------------------------------------------------------------------- |
+| Legislative Assembly|    Three (3)         | At most X2 for West End, Robson, Vancouver Beach, Bayshort and Brockton Point, West Vancouver, Metro West Vancouver, Lions Gate| 
 
 | Nomination Period - Within the Campaigning Channel   |  Campaigning Period                                 | Voting Period                                       | Certification of Results |
 | ---------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ------------------------ |

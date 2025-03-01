@@ -35,7 +35,7 @@ BETWEEN:
 
 [3] On December 27th, 2024 JoeTheBeastPro filed a lawsuit against CSIS for "Negligence, Defamatory Libel or Slander, & Misrepresentation of Official Authority" (Misrepresentation of Official Authority was later dropped by the court due to a lack of legal basis).
 
-[4] On February 17th, 2025, the Attorney General representing CSIS filed a Motion to Dismiss with Prejudice.](https://docs.google.com/document/d/1fsYwvxXu8a8jHpbMXOf4xdJ73VI0EW5-MF80HXCEEwM/edit?tab=t.0).
+[4] On February 17th, 2025, the Attorney General representing CSIS filed a [Motion to Dismiss with Prejudice.](https://docs.google.com/document/d/1fsYwvxXu8a8jHpbMXOf4xdJ73VI0EW5-MF80HXCEEwM/edit?tab=t.0).
 
 [5] JoeTheBeastPro failed to admit any evidence of damages sustained as a result of the press release, only claiming the press release led to his termination from the Vancouver Police Department.
 

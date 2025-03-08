@@ -27,4 +27,4 @@ Pursuant to Section 133 of the Constitution Act, it is declared that there shall
 
 | Nomination Period - Within the Campaigning Channel   |  Campaigning Period                                 | Voting Period                                       | Certification of Results |
 | ---------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ------------------------ |
-| 3/6/2025 @ 21:00 UTC-6 - 3/7/2024 @ 21:00 UTC-6      | 3/7/2025 @ 21:00 UTC-6 - 3/8/2025 @ 21:00 UTC-6     | 3/10/2025 @ 21:00 UTC-6 - 3/14/2025 @ 21:00 UTC-6 | 3/16/2025 @ 15:00 UTC-6    |
+| 3/6/2025 @ 21:00 UTC-6 - 3/7/2024 @ 21:00 UTC-6      | 3/7/2025 @ 23:33 UTC-6 - 3/8/2025 @ 23:33 UTC-6     | 3/10/2025 @ 21:00 UTC-6 - 3/14/2025 @ 21:00 UTC-6   | 3/16/2025 @ 15:00 UTC-6  |

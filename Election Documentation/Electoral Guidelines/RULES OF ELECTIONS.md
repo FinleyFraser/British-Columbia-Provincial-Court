@@ -6,8 +6,11 @@
 4. No Harassement shall occur between campaigns and within them. All campaigners are to be respectful to one another.
 5. NO Violating sections of the constitution act of 2024
 6. NO Violating statutory law
+7. Must not have any indictable offense
 
    Breaking any of these results in 1-2 strikes.
+
+   Rule 7 results in automatic disqualification
    
    Recieving 3 strikes results in disqualification for that election.
 

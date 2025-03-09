@@ -7,6 +7,7 @@
 5. NO Violating sections of the constitution act of 2024
 6. NO Violating statutory law
 7. Must not have any indictable offenses on their record (including indictable criminal convictions)
+8. Must only campaign within the allotted time.
 
    Breaking any of these results in 1-2 strikes.
 

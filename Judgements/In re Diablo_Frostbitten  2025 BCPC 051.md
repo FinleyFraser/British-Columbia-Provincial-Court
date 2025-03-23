@@ -1,4 +1,4 @@
-	Citation:       In the matter of an application for expungement by JDiablo_Frostbitten
+	Citation:       In the matter of an application for expungement by Diablo_Frostbitten
                 	2025 BCPC 051
 	Date:		20250325
 	Registry:	Vancouver

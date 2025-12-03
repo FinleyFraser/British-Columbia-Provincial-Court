@@ -1,6 +1,6 @@
-	Citation:       StevoHateLife v. British Coloumbia Sheriff Service
+	Citation:       Mrloopadoopa v. Re09533
                 	PCBC 2010
-	Date:		2024-7-23
+	Date:		2025-12-02
 	Registry:	Vancouver
 
 				IN THE BRITISH COLUMBIA PROVINCIAL COURT
@@ -9,10 +9,10 @@
 ---
 
 BETWEEN:
-<p align="center"><b>		STEVOHATELIFE				</b>
+<p align="center"><b>		MRLOOPADOOPA				</b>
 <p align="right">		PLAINTIFF
 <p>				AND:
-<p align="center"><b>		BRITISH COLOUMBIA SHERIFF SERVICE			</b>
+<p align="center"><b>		RE09533			</b>
 <p align="right">		DEFENDANT
 
 ---

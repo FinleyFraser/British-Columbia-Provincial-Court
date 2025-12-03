@@ -28,28 +28,40 @@ BETWEEN:
 
 **INTRODUCTION**
 
-[1] On the 19th, of June 2024, (Time Unspecified). Hacknets placed StevoHateLife under investigation for “Violating the Use of Force Policy and Procedure”. The outcome of the investigation was the defendant was ordered to mandatory re-training, a 10-day suspension, and a strike.
-[2] On the 20th, of June 2024, the defendant StevoHateLife filed a civil case against the British Columbia Sheriff Service for the claim of Right to Challenge Disciplinary Action. The defendant filed a Reply to the Notice of Claim filed by the Plaintiffs' Attorney Hmmm_Poul.
+[1] This matter concerns a civil action brought by the Plaintiff, MrLoopaDoopa, against the Defendant, Re09533, alleging harassment and defamatory libel or slander
 
-[3] The Plaintiff requests reliefs of removal of strike and the removal of a mandatory training, if the defendant (British Columbia Sheriff Service) is found liable of the Claim (Right to Challenge Disciplinary Action.
+[2] The Plaintiff asserts that beginning on or about October 27, the Defendant repeatedly made public statements referring to the Plaintiff as a “terrorist.” The Plaintiff alleges that these statements were made approximately seven times, were entirely false, and were intended to damage the Plaintiff’s public image and credibility.
+
+[3] A Notice of Civil Claim was properly filed and served upon the Defendant. The Defendant did not file a Response to Civil Claim within the required time period. The notice clearly stated:
+
+“The defendant must complete and file a Reply within 48 hours from being prompted by the Court. If the defendant does not reply, a court order may be made against the defendant without further notice, and the defendant may be required to pay the amount claimed.”
+
+[4] The Defendant did not file a Reply within the required 48-hour period.
+
+[4] The Plaintiff subsequently filed an Application for Default Judgment, requesting that judgment be entered in his favour due to the Defendant’s failure to respond.
 
 **FINDINGS**
 
-[4] The court believes that the plaintiff was surrounded by the 3 people. As a Law Enforcement Officer, they have access to tools including a firearm, pepper spray, a baton, a taser. These tools are used to protect yourself, to protect another individual and to protect the public.
+[5] The Court is satisfied that the Defendant was duly served and failed to file a Response to Civil Claim within the statutory time limit. The Defendant therefore stands in default.
+
+[7] The Defendant did not respond, did not request more time, and did not attempt to resolve the matter. As a result, the Defendant is in default.
  
-[5] According to the Defense Exhibit C, it shows that the Officer was around 3 people, and the same 3 people in the video did have their fists up, and they were running towards the plaintiff. The court agrees that they could be a protentional threat.
- 
-[6] After reviewing all evidence, the court did not see any sort of firearm, or any weapon present that could present a protentional danger towards the plaintiff. The court also sees that the three individuals were running towards the plaintiff, and that could present a protentional threat.
- 
-[7] However, the court must put into the fact that Law Enforcement Officers must follow the use of force module, “The use of Lethal force such as your handgun. Subjects may be showing deadly force and is a threat to others around them. It is stated and taught in the British Columbia Sheriff Service Academy.
- 
-[8] The court does believe that the three individuals near the officer did not pose a deadly threat to the officer. The court also believes that firing “warning shots”, is wrong, and it is against the law. It is considered reckless discharge, further the less firing warning shots is illegal.
- 
-[9] As a Law Enforcement Office you are trained to use all non-lethal resources including a baton, pepper spray, and a tazer before you resort to lethal resources. Using lethal resources can and will end an individual life and you must always resort to other resources before you use the last resort.
+[8] Based on the evidence submitted by the Plaintiff, the Court accepts that the Defendant made repeated false statements accusing the Plaintiff of being a “terrorist,” and that these statements were intended to damage the Plaintiff’s reputation. The Court also accepts that the conduct was ongoing and targeted, meeting the standard for harassment.
 
 **JUDGEMENTS AND ORDERS**
 
-On Claim 1, Right to Challenge Disciplinary Action I find the defendant (British Coloumbia Sheriff Service) **NOT LIABLE.**
+[9] The Plaintiff’s Motion for Default Judgment is granted.
+
+[10] Judgment is entered in favour of the Plaintiff as follows:
+125,000 CAD for Harassment
+125,000 CAD for Defamatory Libel or Slander
+Total: 250,000 CAD
+
+[11] The Defendant is ordered to cease and desist from making any further defamatory or harassing statements about the Plaintiff.
+
+[12] The Defendant must provide proof of full payment to the Court within the same seven-day period.
+
+[13] If the Defendant fails to pay in full within 7 days, a warrant will be issued.
 
 HMMMMILTON
 Provincial Court Judge

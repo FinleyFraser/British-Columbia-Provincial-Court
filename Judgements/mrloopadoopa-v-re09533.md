@@ -42,7 +42,7 @@ BETWEEN:
 
 **FINDINGS**
 
-[5] The Court is satisfied that the Defendant was duly served and failed to file a Response to Civil Claim within the statutory time limit. The Defendant therefore stands in default.
+[5] The Court is satisfied that the Defendant was duly served and failed to file a Response to Civil Claim within the  time limit. The Defendant therefore stands in default.
 
 [7] The Defendant did not respond, did not request more time, and did not attempt to resolve the matter. As a result, the Defendant is in default.
  

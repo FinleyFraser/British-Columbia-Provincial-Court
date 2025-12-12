@@ -53,9 +53,9 @@ BETWEEN:
 [9] The Plaintiff’s Motion for Default Judgment is granted.
 
 [10] Judgment is entered in favour of the Plaintiff as follows:
-125,000 CAD for Harassment
-125,000 CAD for Defamatory Libel or Slander
-Total: 250,000 CAD
+100,000 CAD for Harassment
+100,000 CAD for Defamatory Libel or Slander
+Total: 200,000 CAD
 
 [11] The Defendant is ordered to cease and desist from making any further defamatory or harassing statements about the Plaintiff.
 

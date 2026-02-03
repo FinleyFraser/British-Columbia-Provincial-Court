@@ -70,7 +70,7 @@ If not, is the decision unreasonable or procedurally unfair?
 
 [14] The continued operation and recognition of the Law Society support the conclusion that its authority remains in effect.
 
-**Roncarelli v Duplessis**
+**Roncarelli v Duplessis:**
 
 [15] The petitioner places significant emphasis on Roncarelli v Duplessis, [1959] SCR 121.
 

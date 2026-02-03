@@ -80,7 +80,7 @@ If not, is the decision unreasonable or procedurally unfair?
 
 [18] In this case, there is nothing before the Court to suggest that the Law Society acted arbitrarily, in bad faith, or for any improper purpose.
 
-Reasonableness and Fairness:
+**Reasonableness and Fairness:**
 
 [19] The Court has reviewed the materials and record before it and is satisfied that the petitioner was informed of the findings, the disciplinary sanction imposed, and the consequences of that sanction.
 
@@ -101,8 +101,6 @@ Reasonableness and Fairness:
 [25] The petition for judicial review is dismissed.  
 
 [26] The disciplinary suspension imposed by the Law Society remains in effect.  
-
-[27] No order as to costs.
 
 
 

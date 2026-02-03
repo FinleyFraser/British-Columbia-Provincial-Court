@@ -10,7 +10,7 @@ Citation:       in-re-mrloopadoopa
 
 BETWEEN:
 <p align="center"><b>		MRLOOPADOOPA				</b>
-<p align="right">		PETITONER
+<p align="right">		PETITIONER
 <p>				AND:
 <p align="center"><b>		BC LAW SOCIETY			</b>
 <p align="right">		RESPONDANT

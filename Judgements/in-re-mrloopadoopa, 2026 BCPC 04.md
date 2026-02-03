@@ -70,11 +70,11 @@ Legislative Changes:
 
 Reasonableness and Fairness:
 
-[19] The decision was made following deliberation and a recorded vote. The petitioner was informed of the findings, the sanction, and the consequences.
+[19] The Court has reviewed the materials and record before it and is satisfied that the petitioner was informed of the findings, the disciplinary sanction imposed, and the consequences of that sanction.
 
-[20] A two-week suspension falls within a reasonable range of outcomes for the violations found.
+[20] A two-week suspension falls within a reasonable range of outcomes available to the Law Society for the violations identified.
 
-[21] Judicial review is not an appeal. The Court does not reweigh the evidence or substitute its own decision for that of the Law Society.
+[21] Judicial review is not an appeal. The Court’s role is not to reweigh the evidence or substitute its own decision for that of the Law Society, but to ensure that the decision was made within legal authority and was reasonable.
 
 **CONCLUSION**
 

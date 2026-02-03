@@ -38,8 +38,9 @@ BETWEEN:
 
 [4] The issues before the Court are:
 
-a. Does the Law Society have legal authority to regulate lawyers and impose discipline?  
-b. If so, was the suspension decision unlawful or unreasonable?
+1. Does the Law Society possess legal authority to regulate lawyers and impose disciplinary sanctions?
+2. Was the suspension decision ultra vires or otherwise unlawful?
+If not, is the decision unreasonable or procedurally unfair?
 
 **STANDARD OF REVIEW**
 
@@ -49,7 +50,7 @@ b. If so, was the suspension decision unlawful or unreasonable?
 
 **ANALYSIS**
 
-Authority of the Law Society:
+**Authority of the Law Society:**
 
 [7] The petitioner is correct that administrative bodies do not have unlimited power and may only act within authority granted by law.
 
@@ -61,13 +62,23 @@ Authority of the Law Society:
 
 [11] The Court is satisfied that the Law Society has legal authority to regulate lawyers and impose disciplinary sanctions.
 
-Legislative Changes:
+**Legislative Changes:**
 
-[16] The petitioner argues that previous legislative changes removed the Law Society’s authority.
+[12] The petitioner argues that previous legislative changes removed the Law Society’s authority.
 
-[17] The Court is not persuaded that any such changes clearly or expressly repealed the Law Society’s regulatory role. Authority is presumed to continue unless clearly removed.
+[13] The Court is not persuaded that any such changes clearly or expressly repealed the Law Society’s regulatory role. Authority is presumed to continue unless clearly removed.
 
-[18] The continued operation and recognition of the Law Society support the conclusion that its authority remains in effect.
+[14] The continued operation and recognition of the Law Society support the conclusion that its authority remains in effect.
+
+**Roncarelli v Duplessis**
+
+[15] The petitioner places significant emphasis on Roncarelli v Duplessis, [1959] SCR 121.
+
+[16] That case establishes the principle that discretionary power cannot be used in an arbitrary, capricious, or improper way.
+
+[17] However, Roncarelli does not suggest that a regulatory authority must fail unless every detail of its power is spelled out in exact statutory terms. The ruling is about preventing abuse of power, not about questioning professional regulation conducted within an established framework.
+
+[18] In this case, there is nothing before the Court to suggest that the Law Society acted arbitrarily, in bad faith, or for any improper purpose.
 
 Reasonableness and Fairness:
 

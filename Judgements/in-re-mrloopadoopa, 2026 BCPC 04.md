@@ -33,6 +33,7 @@ BETWEEN:
 [2] The petitioner argues that the Law Society lacked legal authority to regulate lawyers or impose disciplinary sanctions. He submits that no valid legislative framework exists granting such authority, and that the suspension decision is therefore void.
 
 [3] The respondent Attorney General submits that the Law Society operates under an established regulatory framework, possesses authority to govern the legal profession, and followed proper procedures in reaching its decision.
+
 **ISSUES**
 
 [4] The issues before the Court are:

@@ -69,6 +69,7 @@ BETWEEN:
 [14] The Defence also argues that the exhibits do not prove the actus reus of the offence. That argument relates to the strength of the evidence and ultimate guilt, not whether the exhibits may be considered at trial.
 
 **FINDINGS**
+
 [15] The Court finds that the Defence has raised legitimate concerns regarding Proof of Identification and authenticity.
 
 [16] However, the Court is not satisfied that striking all exhibits at this stage is appropriate.

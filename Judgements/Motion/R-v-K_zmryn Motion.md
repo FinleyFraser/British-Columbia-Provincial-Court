@@ -77,6 +77,7 @@ BETWEEN:
 [17] The proper course is to require the Crown to lay sufficient foundation for authenticity and Proof of Identification when each exhibit is formally introduced.
 
 **ORDER**
+
 [18] The Defence Motion to Strike Crown Exhibits A through H is denied at this time.
 
 [19] The Crown must establish Proof of Identification and authenticity before each exhibit is admitted at trial.

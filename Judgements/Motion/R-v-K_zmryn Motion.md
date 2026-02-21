@@ -41,7 +41,9 @@ BETWEEN:
 [5] The Court must determine:
 
 (a) Whether the exhibits should be struck for lack of Proof of Identification;
+
 (b) Whether the screenshots are inadmissible hearsay; and
+
 (c) Whether authenticity must be fully proven at this stage.
 
 **LAW**

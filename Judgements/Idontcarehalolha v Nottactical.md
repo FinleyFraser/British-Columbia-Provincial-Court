@@ -27,6 +27,7 @@ BETWEEN:
 ---
 
 **INTRODUCTION**
+
 [1] This matter concerns a civil action brought by the Plaintiff, Idontcarehalolha, against the Defendant, Nottactical, for Improper Agency Action and Procedural Misconduct.
 
 [2] The Plaintiff alleges that on January 18, 2026, the Defendant engaged in improper custodial conduct and irregular administrative actions during arrest, detention, and transport procedures, resulting in harm and administrative penalties to the Plaintiff.

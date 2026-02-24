@@ -48,6 +48,8 @@ BETWEEN:
 [9] The Defendant did not file a Reply within the required timeframe, did not seek an extension, and did not bring a timely motion to set aside service.
 
 **FINDINGS**
+
+
 [10] The Court finds that service under Rule 201(B) was properly effected via direct message. The rule requires service; it does not require acknowledgment or confirmation of reading.
 
 [11] The Defendant’s temporary inability to access the server does not invalidate service by direct message.
@@ -61,6 +63,7 @@ BETWEEN:
 [15] Based on the uncontested evidence submitted by the Plaintiff, and in the absence of a filed Reply, the Court accepts the Plaintiff’s evidence as unchallenged.
 
 **JUDGEMENTS AND ORDERS**
+
 
 [16] The default judgment entered on January 29, 2026, remains in full force and effect.
 
